@@ -369,7 +369,7 @@ body > section {
 }
 #main-slider .carousel .boxed {
   padding: 10px 15px;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.51);
   display: inline-block;
 }
 #main-slider .carousel .item {
@@ -806,12 +806,21 @@ ul.tag-cloud li {
 #social-media .icon-twitter:hover {
   background-color: #5ad2f8;
 }
+
 #social-media .icon-google-plus {
   background-color: #d13d2f;
 }
 #social-media .icon-google-plus:hover {
   background-color: #da6459;
 }
+
+#social-media .icon-instagram {
+  background-color: #d13d2f;
+}
+#social-media .icon-instagram:hover {
+  background-color: #da6459;
+}
+
 #social-media .icon-pinterest {
   background-color: #c61118;
 }
