@@ -13,8 +13,8 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    width="431.5"
-   height="74.75"
-   viewBox="0 0 431.5 74.75"
+   height="54.75"
+   viewBox="0 0 431.5 54.75"
    sodipodi:docname="logo.svg"
    inkscape:export-filename="C:\Users\USUARIO\Desktop\Nueva carpeta\logo.png"
    inkscape:export-xdpi="90"
@@ -57,7 +57,7 @@
      xml:space="preserve"
      id="flowRoot3395"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="translate(0,41)"><flowRegion
+     transform="translate(0,21)"><flowRegion
        id="flowRegion3397"><rect
          id="rect3399"
          width="181.17744"
@@ -68,20 +68,20 @@
        id="flowPara3401" /></flowRoot>  <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="78.466789"
-     y="57.356869"
+     x="76.921455"
+     y="44.568428"
      id="text3403"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3405"
-       x="78.466789"
-       y="57.356869"
+       x="76.921455"
+       y="44.568428"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'">Guayana Customs Brokers, C.A.</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot3429"
      style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     transform="translate(0,41)"><flowRegion
+     transform="translate(0,21)"><flowRegion
        id="flowRegion3431"><rect
          id="rect3433"
          width="356.75784"
@@ -89,7 +89,7 @@
          x="-116.83508"
          y="-146.39803" /></flowRegion><flowPara
        id="flowPara3435" /></flowRoot>  <g
-     transform="matrix(0.07564791,0,0,0.07384458,12.197802,74.771407)"
+     transform="matrix(0.07564791,0,0,0.07384458,12.197802,54.771407)"
      id="layer1"
      inkscape:label="Capa 1">
     <path
@@ -438,7 +438,7 @@
        style="fill:#ffffff" />
   </g>
   <g
-     transform="matrix(0.0756479,0,0,0.07793536,-70.479912,74.385144)"
+     transform="matrix(0.0756479,0,0,0.07793536,-70.479912,54.385144)"
      id="layer1-4"
      inkscape:label="Capa 1">
     <path
@@ -583,7 +583,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.0756479,0,0,0.07793536,246.20281,73.078166)"
+     transform="matrix(0.0756479,0,0,0.07793536,246.20281,53.078166)"
      id="layer1-4-6"
      inkscape:label="Capa 1"
      style="fill:#ffffff">
@@ -730,7 +730,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.0756479,0,0,0.07793536,87.490456,70.729885)"
+     transform="matrix(0.0756479,0,0,0.07793536,87.490456,50.729885)"
      id="layer1-4-9"
      inkscape:label="Capa 1"
      style="fill:#008000">
@@ -877,7 +877,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.07564791,0,0,0.07384458,166.78,72.468564)"
+     transform="matrix(0.07564791,0,0,0.07384458,166.78,52.468564)"
      id="layer1-1"
      inkscape:label="Capa 1"
      style="fill:#00ff00">
@@ -1228,7 +1228,7 @@
        style="fill:#00ff00" />
   </g>
   <g
-     transform="matrix(0.0794182,0,0,0.07793536,6.886018,-4.1794276)"
+     transform="matrix(0.04763997,0,0,0.04507397,26.006839,4.316742)"
      id="layer1-4-0"
      inkscape:label="Capa 1">
     <path
@@ -1374,7 +1374,7 @@
   </g>
   <g
      id="g3837"
-     transform="matrix(1.0433015,0,0,1,8.2170758,2.0604455)">
+     transform="matrix(0.66802168,0,0,0.62861365,25.944984,5.588637)">
     <g
        id="g3790">
       <g
