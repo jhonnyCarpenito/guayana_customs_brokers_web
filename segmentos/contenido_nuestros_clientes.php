@@ -1,38 +1,38 @@
 
-            <div class="row">
+            <div class="row" id="clientes">
                 <div class="col-lg-12">
                     <div class="center">
                         <h2>Nuestros clientes</h2>
                         <!--<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>-->
                     </div>
-                    <div class="gap"></div>
+                    
                     <div class="row">
                         <div class="col-md-6">
                             <blockquote>
                                 <ul>
-                                    <li>	COMPLEJO SIDERURGICO NACIONAL, S.A</li>
-                                    <li>	CORPORACION VENEZOLANA DE GUAYANA</li>
-                                    <li>	EMPRESA DE PRODUCCION SOCIAL TUBOS SIN COSTURA</li>
-                                    <li>	HORNOS ELECTRICOS DE VENEZUELA, S.A.</li>
-                                    <li>	ALUMINIOS PIANMECA C.A. </li>
-                                    <li>	ALMACENADORA ORINOCO, C.A. </li>
-                                    <li>	ALMACENADORA GUAYANA STOREHOUSE, C.A.</li> 
-                                    <li>	ASERRADERO COVEMAT C.A.</li>
-                                    <li>	DESARROLLO COSTA ATLANTICA C.A.</li>
-                                    <li>	ALMACENADOREA GLOBAL C.A. </li>
-                                    <li>	INVERSIONES LA FERIA DE LA PINTURA, C.A.</li> 
-                                    <li>	IMGC IRON METALLICS GLOBAL CONSULTANTS C.A. </li>
-                                    <li>	CORPORACION KBJ BELLO, C.A.</li>
-                                    <li>	MILLENIUM MOTORS, C.A.</li>
-                                    <li>	BALPROSER, C.A.</li>
-                                    <li>	EXPLOGRANITOS, C.A.</li>
-                                    <li>	SPORT CITY GYM</li>
-                                    <li>	PALESTINA IMPORT, C.A.</li>
-                                    <li>	PRODUCTOS DERIVADOS DE MADERA, C.A.</li>
-                                    <li>	LLOYD SUDAMERICANO, C.A.</li>
-                                    <li>	INVERSIONES GRILL MARKET, C.A.</li>
-                                    <li>	NAVIERA STAR DEL CARIBE, C.A.</li>
-                                    <li>	FAPCO, C.A.</li>
+                                    <li>	<h4>COMPLEJO SIDERURGICO NACIONAL, S.A</h4></li>
+                                    <li>	<h4>CORPORACION VENEZOLANA DE GUAYANA</h4></li>
+                                    <li>	<h4>EMPRESA DE PRODUCCION SOCIAL TUBOS SIN COSTURA</h4></li>
+                                    <li>	<h4>HORNOS ELECTRICOS DE VENEZUELA, S.A.</h4></li>
+                                    <li>	<h4>ALUMINIOS PIANMECA C.A. </h4></li>
+                                    <li>	<h4>ALMACENADORA ORINOCO, C.A. </h4></li>
+                                    <li>	<h4>ALMACENADORA GUAYANA STOREHOUSE, C.A.</h4></li> 
+                                    <li>	<h4>ASERRADERO COVEMAT C.A.</h4></li>
+                                    <li>	<h4>DESARROLLO COSTA ATLANTICA C.A.</h4></li>
+                                    <li>	<h4>ALMACENADOREA GLOBAL C.A. </h4></li>
+                                    <li>	<h4>INVERSIONES LA FERIA DE LA PINTURA, C.A.</h4></li> 
+                                    <li>	<h4>IMGC IRON METALLICS GLOBAL CONSULTANTS C.A. </h4></li>
+                                    <li>	<h4>CORPORACION KBJ BELLO, C.A.</h4></li>
+                                    <li>	<h4>MILLENIUM MOTORS, C.A.</h4></li>
+                                    <li>	<h4>BALPROSER, C.A.</h4></li>
+                                    <li>	<h4>EXPLOGRANITOS, C.A.</h4></li>
+                                    <li>	<h4>SPORT CITY GYM</h4></li>
+                                    <li>	<h4>PALESTINA IMPORT, C.A.</h4></li>
+                                    <li>	<h4>PRODUCTOS DERIVADOS DE MADERA, C.A.</h4></li>
+                                    <li>	<h4>LLOYD SUDAMERICANO, C.A.</h4></li>
+                                    <li>	<h4>INVERSIONES GRILL MARKET, C.A.</h4></li>
+                                    <li>	<h4>NAVIERA STAR DEL CARIBE, C.A.</h4></li>
+                                    <li>	<h4>FAPCO, C.A.</h4></li>
 
                                 </ul>
                             </blockquote>
@@ -40,29 +40,29 @@
                         <div class="col-md-6">
                             <blockquote>
                                 <ul>
-                                    <li>	INVERSIONES LA FERIA SAN FELIX, C.A.</li>
-                                    <li>	MARITIMA SEAMAR, C.A.</li>
-                                    <li>	AERO TRANSPORTE DEL CARIBE, C.A.</li>
-                                    <li>	HEVENSA, C.A.</li>
-                                    <li>	EMINCA</li>
-                                    <li>	AVIATION GROUP PERFORMANCE, AGP, C.A.</li>
-                                    <li>	CONPROSUR, C.A.</li>
-                                    <li>    OFICINA TECNICA REYA, C.A.</li>
-                                    <li>    DULCERIA DEL CARONI, C.A.</li>
-                                    <li>    FORMATOS DE ALUMINIO DEL SUR, C.A</li>
-                                    <li>    FEMARRECA, C.A.</li>
-                                    <li>    FRIMOR</li>
-                                    <li>    TRATAMIENTOS METALURGICOS, C.A.</li>
-                                    <li>    GLOBAL SECURITY SISTEMS IMPORT, C.A.</li>
-                                    <li>    GODOQUIN, C.A.</li>
-                                    <li>    METALLICS GLOBAL, C.A.</li>
-                                    <li>    CAR LIGHT ELECTRONICS, C.A.</li>
-                                    <li>    CLINICA OFTALMOLOGICA SANTA FE, C.A.</li>
-                                    <li>    AEROCOPTER, C.A.</li>
-                                    <li>    AIR RORAIMA, C.A.</li>
-                                    <li>    ALFER IMPORT, C.A.</li>
-                                    <li>    FILTROS GUAYANA, C.A.</li>
-                                    <li>    INGEGUAY, C.A.</li>
+                                    <li>	<h4>INVERSIONES LA FERIA SAN FELIX, C.A.</h4></li>
+                                    <li>	<h4>MARITIMA SEAMAR, C.A.</h4></li>
+                                    <li>	<h4>AERO TRANSPORTE DEL CARIBE, C.A.</h4></li>
+                                    <li>	<h4>HEVENSA, C.A.</h4></li>
+                                    <li>	<h4>EMINCA</h4></li>
+                                    <li>	<h4>AVIATION GROUP PERFORMANCE, AGP, C.A.</h4></li>
+                                    <li>	<h4>CONPROSUR, C.A.</h4></li>
+                                    <li>    <h4>OFICINA TECNICA REYA, C.A.</h4></li>
+                                    <li>    <h4>DULCERIA DEL CARONI, C.A.</h4></li>
+                                    <li>    <h4>FORMATOS DE ALUMINIO DEL SUR, C.A</h4></li>
+                                    <li>    <h4>FEMARRECA, C.A.</h4></li>
+                                    <li>    <h4>FRIMOR</h4></li>
+                                    <li>    <h4>TRATAMIENTOS METALURGICOS, C.A.</h4></li>
+                                    <li>    <h4>GLOBAL SECURITY SISTEMS IMPORT, C.A.</h4></li>
+                                    <li>    <h4>GODOQUIN, C.A.</h4></li>
+                                    <li>    <h4>METALLICS GLOBAL, C.A.</h4></li>
+                                    <li>    <h4>CAR LIGHT ELECTRONICS, C.A.</h4></li>
+                                    <li>    <h4>CLINICA OFTALMOLOGICA SANTA FE, C.A.</h4></li>
+                                    <li>    <h4>AEROCOPTER, C.A.</h4></li>
+                                    <li>    <h4>AIR RORAIMA, C.A.</h4></li>
+                                    <li>    <h4>ALFER IMPORT, C.A.</h4></li>
+                                    <li>    <h4>FILTROS GUAYANA, C.A.</h4></li>
+                                    <li>    <h4>INGEGUAY, C.A.</h4></li>
 
                                 
                                 </ul>

@@ -15,11 +15,11 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h1>Servicios</h1>
-                        <!--<p>Pellentesque habitant morbi tristique senectus et netus et malesuada</p>-->
-                    </div>
-                    
-                    <!--<div class="col-sm-6"></div>-->
-                    
+                        <ul class="breadcrumb pull-left">
+                            <li><a href="#servicios">Nuestros servicios</a></li>
+                            <li><a href="#clientes">Nuestros clientes</a></li>
+                        </ul>
+                    </div>                    
                 </div>
             </div>
         </section><!--/#title-->     

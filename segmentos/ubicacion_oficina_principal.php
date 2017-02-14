@@ -17,27 +17,39 @@
                                 <div class="carousel-inner">
                                 
                                     <div class="active item" data-slide-number="0">
-                                        <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img1.JPG">
+                                        <a class="thumbnail fancybox" rel="ligthbox" href="images/slider_ubicacion/oficina_principal/img1.JPG">
+                                            <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img1.JPG">   
+                                        </a>
                                     </div>
 
                                     <div class="item" data-slide-number="1">
-                                        <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img2.JPG">
+                                        <a class="thumbnail fancybox" rel="ligthbox" href="images/slider_ubicacion/oficina_principal/img2.JPG">
+                                            <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img2.JPG">
+                                        </a>    
                                     </div>
 
                                     <div class="item" data-slide-number="2">
-                                        <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img3.JPG">
+                                        <a class="thumbnail fancybox" rel="ligthbox" href="images/slider_ubicacion/oficina_principal/img3.JPG">
+                                            <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img3.JPG">
+                                        </a>    
                                     </div>
 
                                     <div class="item" data-slide-number="3">
-                                        <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img4.JPG">
+                                        <a class="thumbnail fancybox" rel="ligthbox" href="images/slider_ubicacion/oficina_principal/img4.JPG">
+                                            <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img4.JPG">
+                                        </a>    
                                     </div>
 
                                     <div class="item" data-slide-number="4">
-                                        <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img5.JPG">
+                                        <a class="thumbnail fancybox" rel="ligthbox" href="images/slider_ubicacion/oficina_principal/img5.JPG">
+                                            <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img5.JPG">
+                                        </a>    
                                     </div>
 
                                     <div class="item" data-slide-number="5">
-                                        <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img6.JPG">
+                                        <a class="thumbnail fancybox" rel="ligthbox" href="images/slider_ubicacion/oficina_principal/img6.JPG">
+                                            <img width="650" height="400" src="images/slider_ubicacion/oficina_principal/img6.JPG">
+                                        </a>    
                                     </div>
                                     
                                 </div>

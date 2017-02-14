@@ -14,7 +14,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>Contactanos</h1>
+                    <h1>Contactos</h1>
+                    <ul class="breadcrumb pull-left">
+                        <li><a href="#contactos">Nuestros contactos</a></li>
+                        <li><a href="#sucursales">Nuestras sucursales</a></li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -23,10 +27,11 @@
     <section id="contact-page" class="container">
         <div class="row">
             <!--CONTENIDO DE CONTACTOS-->
-            <?php include "segmentos/contenido_contactos.php" ?>
-            
+            <div id="contactos">
+                <?php include "segmentos/contenido_contactos.php" ?>
+            </div>
             <!--UBICACION DE NUESTRAS OFICINAS-->
-            <div class="col-sm-10"><!--Ubicaciones de nuestras oficinas-->    
+            <div class="col-sm-10" id="sucursales"><!--Ubicaciones de nuestras oficinas-->    
                 <h3><span class="glyphicon glyphicon-map-marker"></span>Ubicaciones de nuestra oficinas</h3>
             
                 <ul>
@@ -53,6 +58,36 @@
     <?php include "segmentos/pie_de_pagina.php" ?>
     
     <script>
+        jQuery(document).ready(function($) {
+
+            $('#myCarousel').carousel({
+                    interval: 5000
+            });
+
+            $('#carousel-text').html($('#slide-content-0').html());
+
+            //Handles the carousel thumbnails
+           $('[id^=carousel-selector-]').click( function(){
+                var id = this.id.substr(this.id.lastIndexOf("-") + 1);
+                var id = parseInt(id);
+                $('#myCarousel').carousel(id);
+            });
+
+
+            // When the carousel slides, auto update the text
+            $('#myCarousel').on('slid.bs.carousel', function (e) {
+                     var id = $('.item.active').data('slide-number');
+                    $('#carousel-text').html($('#slide-content-'+id).html());
+            });
+
+            $(".fancybox").fancybox({
+                openEffect: "none",
+                closeEffect: "none"
+            });
+
+        });    
+
+    /*
             jQuery(document).ready(function($) {
 
                 $('#myCarousel').carousel({
@@ -75,8 +110,9 @@
                         $('#carousel-text').html($('#slide-content-'+id).html());
                 });
             });
+            */
         
-        /*
+    /*
         jQuery(document).ready(function($) {
 
                 $('#myCarousel').carousel({

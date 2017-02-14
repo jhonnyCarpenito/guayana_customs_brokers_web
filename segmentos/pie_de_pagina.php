@@ -18,7 +18,3 @@
         </div>
     </footer><!--/#footer-->
 
-    <script src="recursos/js/jquery.js"></script>
-    <script src="recursos/js/bootstrap.min.js"></script>
-    <script src="recursos/js/jquery.prettyPhoto.js"></script>
-    <script src="recursos/js/main.js"></script>
