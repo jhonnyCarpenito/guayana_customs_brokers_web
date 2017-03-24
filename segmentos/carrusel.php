@@ -13,7 +13,7 @@
             </ol>
             <div class="carousel-inner">
                 
-                <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
+                <div class="item active" style="background-image: url(recursos/images/slider/bg1.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
@@ -31,7 +31,7 @@
                 </div><!--/.item-->
                 
                 <!--********************************************************************************************************************-->
-                <div class="item" style="background-image: url(images/slider/bg2.jpg)">
+                <div class="item" style="background-image: url(recursos/images/slider/bg2.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-10">
@@ -50,7 +50,7 @@
                 </div><!--/.item-->
                 <!--********************************************************************************************************************-->
                 
-                <div class="item" style="background-image: url(images/slider/bg3.jpg)">
+                <div class="item" style="background-image: url(recursos/images/slider/bg3.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12">
@@ -71,7 +71,7 @@
                     </div>
                 </div><!--/.item-->
                 
-                <div class="item" style="background-image: url(images/slider/bg4.jpg)">
+                <div class="item" style="background-image: url(recursos/images/slider/bg4.jpg)">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-10">
@@ -92,7 +92,7 @@
                 
                 <!--********************************************************************************************************************-->
                 
-                <div class="item" style="background-image: url(images/slider/bg5.jpg)">
+                <div class="item" style="background-image: url(recursos/images/slider/bg5.jpg)">
                     <div class="container">
                         <div class="row">
                             
@@ -115,7 +115,7 @@
                 
                 <!--********************************************************************************************************************-->
                 
-                <div class="item" style="background-image: url(images/slider/bg6.jpg)">
+                <div class="item" style="background-image: url(recursos/images/slider/bg6.jpg)">
                     <div class="container">
                         <div class="row">
                             

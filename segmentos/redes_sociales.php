@@ -16,7 +16,7 @@
                         </div>
                     </div>
                 </div><!--/.col-md-4-->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-4 col-sm-6" onclick="window.open('https://www.facebook.com/pages/GUAYANA-CUSTOMS-BROKERS-CA/107062652659714');">
                     <div class="media">
                         <div class="pull-left">
                             <i class="icon-facebook icon-md"></i>
@@ -24,7 +24,7 @@
                         <div class="media-body">
                             <h3 class="media-heading">Visita nuestra pagina de Facebook </h3>
                             
-                            <p>Enterate de mas acerca de nostros.</p>
+                            <p>Enterate de mas acerca de nosotros.</p>
                             
                         </div>
                     </div>

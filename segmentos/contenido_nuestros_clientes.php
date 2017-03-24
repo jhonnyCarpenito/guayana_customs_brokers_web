@@ -63,8 +63,6 @@
                                     <li>    <h4>ALFER IMPORT, C.A.</h4></li>
                                     <li>    <h4>FILTROS GUAYANA, C.A.</h4></li>
                                     <li>    <h4>INGEGUAY, C.A.</h4></li>
-
-                                
                                 </ul>
                             </blockquote>
                         </div>
